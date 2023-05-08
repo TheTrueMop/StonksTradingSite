@@ -1,0 +1,28 @@
+{
+  "name": "stonkstradingsite",
+  "version": "1.0.0",
+  "description": "A mock trading site designed for utilizing a API similar to Binances API for training both manual and automated methods of training ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheTrueMop/StonksTradingSite.git"
+  },
+  "keywords": [
+    "API",
+    "Stocks",
+    "Crypto",
+    "MERN"
+  ],
+  "author": "Dawson J. WHite",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/TheTrueMop/StonksTradingSite/issues"
+  },
+  "homepage": "https://github.com/TheTrueMop/StonksTradingSite#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
